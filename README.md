@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlejandroFloresibm
 - 👀 I’m interested in helping you develop your career at one of the biggest IT companies
 - 📫 How to reach me ... Alejandro.Flores.Tovar@ibm.com
-- 💞️ I’m looking for people with experience in Java Back End.
+- 💞️ I’m looking for people with experience in DevOps, Cloud, Maximo and more.
 - 
 
 <!---
